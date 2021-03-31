@@ -1,0 +1,7 @@
+[nginx]
+192.168.48.131 ansible_connection=ssh        ansible_user=ovono92 ansible_become_pass=sojobo922
+
+ 
+
+[haproxy]
+192.168.48.131 ansible_connection=ssh        ansible_user=ovono92 ansible_become_pass=sojobo922
